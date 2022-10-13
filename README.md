@@ -6,7 +6,7 @@ _Project Work in Fundamentals of Artificial Intelligence and Knowledge Represent
 
 Getting Started:
 
-1. Make sure that Python are installed.
+1. Make sure that Python is installed.
 2. Download the repository
    ```
    git clone https://github.com/Enzossssss/TicTacToe-and-Connect4-using-AI.git
