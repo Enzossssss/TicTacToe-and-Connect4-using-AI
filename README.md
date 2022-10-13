@@ -1,20 +1,17 @@
-# NAO Planning Challenge 2021
+# MIN-MAX ALGORITHM INTO BOARD GAMES: CONNECT 4 AND TIC TAC TOE 
 
-**Team Name**: WALL-E
+**Author**: Vincenzo Collura
 
-**Members**: Vincenzo Collura, Samuele Marino
-
-_Fundamentals of Artificial Intelligence and Knowledge Representation_
+_Project Work in Fundamentals of Artificial Intelligence and Knowledge Representation_
 
 Getting Started:
 
-1. Use the NAO Virtual Machine
-2. Make sure that both Python 2 and Python 3 are installed.
-3. Download the repository
+1. Make sure that both Python 2 and Python 3 are installed.
+2. Download the repository
    ```
-   git clone https://github.com/Enzossssss/NAOdanceProject
+   git clone 
    ```
-4. Open a terminal in the project path
+3. Open a terminal in the project path
 5. Install numpy
    ```
    pip3 install numpy
@@ -41,58 +38,3 @@ The full video can be seen at the following [link](https://liveunibo-my.sharepoi
 _Only people in Alma Mater Studiorum Università di Bologna can access to the link_
 
 The demo video is in presentation folder
-
-# Organization Folders
-
-```
-NAOdanceProject
-├── generator
-│   ├── aima
-│   │   ├── __init__.py
-│   │   ├── search.py
-│   │   └── utils.py
-│   ├── choreography.py
-│   └── position.py
-├── player
-│   ├── choreography.txt
-│   ├── mille.wav
-│   ├── positions
-│   │   ├── AirGuitar.py
-│   │   ├── Arms_opening.py
-│   │   ├── Ballo_braccia.py
-│   │   ├── ComeOn.py
-│   │   ├── Crouch.py
-│   │   ├── Dab.py
-│   │   ├── DanceMove.py
-│   │   ├── Diagonal_left.py
-│   │   ├── Diagonal_right.py
-│   │   ├── Happy_Birthday.py
-│   │   ├── Hello.py
-│   │   ├── __init__.py
-│   │   ├── Mani_sui_fianchi.py
-│   │   ├── Move_backward.py
-│   │   ├── Move_forward.py
-│   │   ├── PulpFiction.py
-│   │   ├── Right_arm.py
-│   │   ├── Right_sprinkler.py
-│   │   ├── Rotation_foot_LLeg.py
-│   │   ├── Rotation_foot_RLeg.py
-│   │   ├── Rotation_handgun_object.py
-│   │   ├── Sit.py
-│   │   ├── SitRelax.py
-│   │   ├── Stand_from_sit.py
-│   │   ├── StandInit.py
-│   │   ├── Stand.py
-│   │   ├── StandZero.py
-│   │   ├── TheRobot.py
-│   │   ├── time.txt
-│   │   ├── Union_arms.py
-│   │   └── Wipe_Forehead.py
-│   └── robot.py
-├── presentation
-│   ├── demo_wall-e_short.mp4
-│   └── presentation.pdf
-├── README.md
-└── start.sh
-
-```
