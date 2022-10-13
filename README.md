@@ -6,35 +6,27 @@ _Project Work in Fundamentals of Artificial Intelligence and Knowledge Represent
 
 Getting Started:
 
-1. Make sure that both Python 2 and Python 3 are installed.
+1. Make sure that Python are installed.
 2. Download the repository
    ```
-   git clone 
+   git clone https://github.com/Enzossssss/TicTacToe-and-Connect4-using-AI.git
    ```
 3. Open a terminal in the project path
-5. Install numpy
+4. Install numpy, pygame, copy
    ```
    pip3 install numpy
    ```
-6. Change permission for script
-
    ```
-   chmod 777 ./start.sh
+   pip3 install pygame
+   ```
+   ```
+   pip3 install copy
+   ```
+5. Run the program with the following string. In tictactoe path if you want to run Tic Tac Toe, in connect4 path if you want to run Connect 4.
+   ```
+   python main.py
    ```
 
-7. Open Choregraphe in order to simulate NAO
-8. Connect to virtual robot
-9. Copy the ip and the port of NAO
-10. Launch the starting script
+# Presentation
 
-    ```
-    ./start.sh <nao_ip> <nao_port>
-    ```
-
-# Video
-
-The full video can be seen at the following [link](https://liveunibo-my.sharepoint.com/:v:/g/personal/samuele_marino_studio_unibo_it/EfDueZiOCRVOuNOPI9_SGGQBU-3woOOdwP5SfEL9Z5nQyw?e=EniBuR)
-
-_Only people in Alma Mater Studiorum Università di Bologna can access to the link_
-
-The demo video is in presentation folder
+The PDF and pptx version of the presentation can be found in the Presentation folder.
